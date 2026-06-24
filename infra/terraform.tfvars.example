@@ -1,0 +1,9 @@
+aws_region   = "us-east-2"
+project_name = "claims-textract-poc"
+
+# Optional. Leave empty to derive a bucket name from project, account, and region.
+bucket_name = ""
+
+tags = {
+  Owner = "textract-poc"
+}

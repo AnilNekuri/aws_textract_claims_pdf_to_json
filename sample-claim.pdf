@@ -1,0 +1,44 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 1 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 2 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 920 >>
+stream
+BT /F1 16 Tf 72 740 Td (SYNTHETIC HEALTH CLAIM FORM) Tj ET
+BT /F1 11 Tf 72 710 Td (Claim Number: CLM-2026-000123) Tj ET
+BT /F1 11 Tf 72 692 Td (Member ID: M12345) Tj ET
+BT /F1 11 Tf 72 674 Td (Patient Name: John Smith) Tj ET
+BT /F1 11 Tf 72 656 Td (Provider Name: ABC Provider Clinic) Tj ET
+BT /F1 11 Tf 72 638 Td (Date of Service: 01/15/2026) Tj ET
+BT /F1 11 Tf 72 620 Td (Total Billed Amount: $500.00) Tj ET
+BT /F1 11 Tf 72 602 Td (Total Paid Amount: $300.00) Tj ET
+BT /F1 13 Tf 72 566 Td (SERVICE LINES) Tj ET
+BT /F1 9 Tf 72 542 Td (Date of Service | Procedure Code | Units | Billed Amount | Allowed Amount | Paid Amount) Tj ET
+BT /F1 9 Tf 72 524 Td (01/15/2026 | 99213 | 1 | $500.00 | $350.00 | $300.00) Tj ET
+BT /F1 10 Tf 72 488 Td (Notes: This is a synthetic document for AWS Textract POC testing only.) Tj ET
+BT /F1 10 Tf 72 470 Td (It does not contain real patient, provider, member, or claim information.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 1 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000066 00000 n 
+0000000136 00000 n 
+0000000262 00000 n 
+0000001233 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1282
+%%EOF
